@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Saksham | Flutter Developer & Tech Innovator</h1>
-<h3 align="center">Building scalable mobile solutions | Building @Ajnabee | 2+ years of hands-on experience</h3>
+<h3 align="center">Building scalable mobile solutions | Building @Ajnabee 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast%F0%9F%92%BB;Startup+Founder%F0%9F%92%BC;Clean+Code+Advocate%F0%9F%94%A5;AI+Innovator%F0%9F%A4%96" alt="Typing SVG" /></a>
